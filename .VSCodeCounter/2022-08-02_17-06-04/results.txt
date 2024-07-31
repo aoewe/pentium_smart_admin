@@ -1,0 +1,188 @@
+Date : 2022-08-02 17:06:04
+Directory : c:\Users\zy\Desktop\pentium_smart_admin
+Total : 115 files,  10516 codes, 551 comments, 555 blanks, all 11622 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| Vue                |         44 |      7,520 |        221 |        167 |      7,908 |
+| JavaScript         |         47 |      2,152 |        279 |        205 |      2,636 |
+| SCSS               |          6 |        596 |         32 |         96 |        724 |
+| Markdown           |          2 |        133 |          0 |         79 |        212 |
+| JSON               |          1 |         73 |          0 |          1 |         74 |
+| HTML               |          1 |         16 |          1 |          1 |         18 |
+| XML                |         11 |         11 |          0 |          0 |         11 |
+| YAML               |          2 |         10 |         13 |          6 |         29 |
+| JSON with Comments |          1 |          5 |          5 |          0 |         10 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                              | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                 |        115 |     10,516 |        551 |        555 |     11,622 |
+| build                                                                                             |          1 |         26 |          0 |          8 |         34 |
+| mock                                                                                              |          5 |        222 |         21 |         34 |        277 |
+| public                                                                                            |          1 |         16 |          1 |          1 |         18 |
+| src                                                                                               |         90 |      9,490 |        479 |        399 |     10,368 |
+| src\api                                                                                           |          6 |        414 |         57 |         23 |        494 |
+| src\components                                                                                    |          3 |        148 |         25 |         16 |        189 |
+| src\components\Breadcrumb                                                                         |          1 |         60 |         12 |          7 |         79 |
+| src\components\Hamburger                                                                          |          1 |         31 |         12 |          4 |         47 |
+| src\components\SvgIcon                                                                            |          1 |         57 |          1 |          5 |         63 |
+| src\icons                                                                                         |         13 |         22 |         14 |          8 |         44 |
+| src\icons\svg                                                                                     |         11 |         11 |          0 |          0 |         11 |
+| src\layout                                                                                        |         11 |        667 |         42 |         61 |        770 |
+| src\layout\components                                                                             |          9 |        542 |         35 |         49 |        626 |
+| src\layout\components\Sidebar                                                                     |          6 |        387 |         15 |         27 |        429 |
+| src\layout\mixin                                                                                  |          1 |         35 |          7 |          4 |         46 |
+| src\router                                                                                        |          1 |        201 |          3 |          8 |        212 |
+| src\store                                                                                         |          6 |        310 |         19 |         32 |        361 |
+| src\store\modules                                                                                 |          4 |        278 |         19 |         27 |        324 |
+| src\styles                                                                                        |          6 |        596 |         32 |         96 |        724 |
+| src\utils                                                                                         |          6 |        215 |         67 |         33 |        315 |
+| src\views                                                                                         |         34 |      6,825 |        188 |         97 |      7,110 |
+| src\views\account                                                                                 |          2 |        738 |         36 |          5 |        779 |
+| src\views\authority                                                                               |          9 |      1,662 |         78 |         25 |      1,765 |
+| src\views\authority\components                                                                    |          3 |        242 |         31 |         12 |        285 |
+| src\views\dashboard                                                                               |          8 |      1,110 |         27 |         25 |      1,162 |
+| src\views\dashboard\components                                                                    |          7 |        768 |         27 |         24 |        819 |
+| src\views\dashboard\components\EcMachineTotal                                                     |          1 |        154 |          0 |          6 |        160 |
+| src\views\dashboard\components\EcMap                                                              |          1 |        141 |          2 |          3 |        146 |
+| src\views\dashboard\components\EcYearYield                                                        |          1 |        143 |          0 |          6 |        149 |
+| src\views\dashboard\components\EcYesterdayYield                                                   |          1 |        150 |          0 |          5 |        155 |
+| src\views\dashboard\components\Weather                                                            |          1 |        106 |          0 |          1 |        107 |
+| src\views\dashboard\components\mixins                                                             |          1 |         50 |          4 |          2 |         56 |
+| src\views\equipment                                                                               |          3 |        784 |          7 |          5 |        796 |
+| src\views\login                                                                                   |          1 |        221 |          4 |         18 |        243 |
+| src\views\newData                                                                                 |          2 |        746 |         25 |          6 |        777 |
+| src\views\productionData                                                                          |          3 |        522 |          4 |          3 |        529 |
+| src\views\statistics                                                                              |          5 |        817 |          7 |          6 |        830 |
+| tests                                                                                             |          8 |        214 |         13 |         18 |        245 |
+| tests\unit                                                                                        |          8 |        214 |         13 |         18 |        245 |
+| tests\unit\components                                                                             |          3 |        120 |         13 |          7 |        140 |
+| tests\unit\utils                                                                                  |          4 |         89 |          0 |         10 |         99 |
++---------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                          | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\zy\Desktop\pentium_smart_admin\.eslintrc.js                                              | JavaScript         |        195 |          2 |          2 |        199 |
+| c:\Users\zy\Desktop\pentium_smart_admin\.travis.yml                                               | YAML               |          5 |          0 |          1 |          6 |
+| c:\Users\zy\Desktop\pentium_smart_admin\README-zh.md                                              | Markdown           |         71 |          0 |         41 |        112 |
+| c:\Users\zy\Desktop\pentium_smart_admin\README.md                                                 | Markdown           |         62 |          0 |         38 |        100 |
+| c:\Users\zy\Desktop\pentium_smart_admin\babel.config.js                                           | JavaScript         |         10 |          3 |          1 |         14 |
+| c:\Users\zy\Desktop\pentium_smart_admin\build\index.js                                            | JavaScript         |         26 |          0 |          8 |         34 |
+| c:\Users\zy\Desktop\pentium_smart_admin\jest.config.js                                            | JavaScript         |         22 |          2 |          1 |         25 |
+| c:\Users\zy\Desktop\pentium_smart_admin\jsconfig.json                                             | JSON with Comments |          5 |          5 |          0 |         10 |
+| c:\Users\zy\Desktop\pentium_smart_admin\mock\index.js                                             | JavaScript         |         43 |          6 |          9 |         58 |
+| c:\Users\zy\Desktop\pentium_smart_admin\mock\mock-server.js                                       | JavaScript         |         62 |          6 |         10 |         78 |
+| c:\Users\zy\Desktop\pentium_smart_admin\mock\table.js                                             | JavaScript         |         27 |          0 |          3 |         30 |
+| c:\Users\zy\Desktop\pentium_smart_admin\mock\user.js                                              | JavaScript         |         70 |          5 |         10 |         85 |
+| c:\Users\zy\Desktop\pentium_smart_admin\mock\utils.js                                             | JavaScript         |         20 |          4 |          2 |         26 |
+| c:\Users\zy\Desktop\pentium_smart_admin\package.json                                              | JSON               |         73 |          0 |          1 |         74 |
+| c:\Users\zy\Desktop\pentium_smart_admin\postcss.config.js                                         | JavaScript         |          5 |          2 |          2 |          9 |
+| c:\Users\zy\Desktop\pentium_smart_admin\public\index.html                                         | HTML               |         16 |          1 |          1 |         18 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\App.vue                                               | Vue                |         16 |          0 |          2 |         18 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\api\authority.js                                      | JavaScript         |        120 |         17 |          4 |        141 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\api\equipment.js                                      | JavaScript         |         71 |         10 |          3 |         84 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\api\production.js                                     | JavaScript         |         29 |          4 |          3 |         36 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\api\public.js                                         | JavaScript         |         62 |          9 |          5 |         76 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\api\settlement.js                                     | JavaScript         |         57 |          8 |          2 |         67 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\api\user.js                                           | JavaScript         |         75 |          9 |          6 |         90 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\components\Breadcrumb\index.vue                       | Vue                |         60 |         12 |          7 |         79 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\components\Hamburger\index.vue                        | Vue                |         31 |         12 |          4 |         47 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\components\SvgIcon\index.vue                          | Vue                |         57 |          1 |          5 |         63 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\index.js                                        | JavaScript         |          6 |          1 |          3 |         10 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\dashboard.svg                               | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\example.svg                                 | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\eye-open.svg                                | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\eye.svg                                     | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\form.svg                                    | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\link.svg                                    | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\nested.svg                                  | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\password.svg                                | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\table.svg                                   | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\tree.svg                                    | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svg\user.svg                                    | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\icons\svgo.yml                                        | YAML               |          5 |         13 |          5 |         23 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\AppMain.vue                         | Vue                |         50 |          3 |          4 |         57 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Navbar.vue                          | Vue                |        102 |         17 |         17 |        136 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Sidebar\FixiOSBug.js                | JavaScript         |         24 |          2 |          1 |         27 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Sidebar\Item.vue                    | Vue                |         38 |          0 |          4 |         42 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Sidebar\Link.vue                    | Vue                |         41 |          0 |          3 |         44 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Sidebar\Logo.vue                    | Vue                |         71 |          6 |          9 |         86 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Sidebar\SidebarItem.vue             | Vue                |         83 |          6 |          7 |         96 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\Sidebar\index.vue                   | Vue                |        130 |          1 |          3 |        134 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\components\index.js                            | JavaScript         |          3 |          0 |          1 |          4 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\index.vue                                      | Vue                |         90 |          0 |          8 |         98 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\layout\mixin\ResizeHandler.js                         | JavaScript         |         35 |          7 |          4 |         46 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\main.js                                               | JavaScript         |         18 |         13 |         10 |         41 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\permission.js                                         | JavaScript         |         53 |         11 |          9 |         73 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\router\index.js                                       | JavaScript         |        201 |          3 |          8 |        212 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\settings.js                                           | JavaScript         |          5 |          8 |          4 |         17 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\store\getters.js                                      | JavaScript         |         14 |          0 |          1 |         15 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\store\index.js                                        | JavaScript         |         18 |          0 |          4 |         22 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\store\modules\app.js                                  | JavaScript         |         35 |          9 |          4 |         48 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\store\modules\permission.js                           | JavaScript         |         84 |          0 |          6 |         90 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\store\modules\settings.js                             | JavaScript         |         25 |          1 |          6 |         32 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\store\modules\user.js                                 | JavaScript         |        134 |          9 |         11 |        154 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\styles\element-ui.scss                                | SCSS               |        135 |         11 |          8 |        154 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\styles\index.scss                                     | SCSS               |        100 |          2 |         16 |        118 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\styles\mixin.scss                                     | SCSS               |         24 |          0 |          5 |         29 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\styles\sidebar.scss                                   | SCSS               |        282 |         12 |         54 |        348 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\styles\transition.scss                                | SCSS               |         35 |          4 |         10 |         49 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\styles\variables.scss                                 | SCSS               |         20 |          3 |          3 |         26 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\utils\auth.js                                         | JavaScript         |         21 |          0 |          7 |         28 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\utils\citys.js                                        | JavaScript         |          1 |          0 |          0 |          1 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\utils\get-page-title.js                               | JavaScript         |          8 |          0 |          3 |         11 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\utils\index.js                                        | JavaScript         |        116 |         33 |         11 |        160 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\utils\request.js                                      | JavaScript         |         63 |         21 |          9 |         93 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\utils\validate.js                                     | JavaScript         |          6 |         13 |          3 |         22 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\404.vue                                         | Vue                |        225 |          0 |          4 |        229 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\account\index.vue                               | Vue                |        486 |         24 |          4 |        514 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\account\staff.vue                               | Vue                |        252 |         12 |          1 |        265 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\api.vue                               | Vue                |        189 |          6 |          2 |        197 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\article.vue                           | Vue                |        344 |          3 |          2 |        349 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\components\apis.vue                   | Vue                |         88 |          3 |          3 |         94 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\components\editoritem.vue             | Vue                |         82 |         25 |          5 |        112 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\components\menus.vue                  | Vue                |         72 |          3 |          4 |         79 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\config.vue                            | Vue                |        133 |          1 |          2 |        136 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\logs.vue                              | Vue                |         88 |          1 |          2 |         91 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\menu.vue                              | Vue                |        409 |         19 |          3 |        431 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\authority\role.vue                              | Vue                |        257 |         17 |          2 |        276 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\EcMachineTotal\index.vue   | Vue                |        154 |          0 |          6 |        160 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\EcMap\index.vue            | Vue                |        141 |          2 |          3 |        146 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\EcYearYield\index.vue      | Vue                |        143 |          0 |          6 |        149 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\EcYesterdayYield\index.vue | Vue                |        150 |          0 |          5 |        155 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\Weather\index.vue          | Vue                |        106 |          0 |          1 |        107 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\china.js                   | JavaScript         |         24 |         21 |          1 |         46 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\components\mixins\resize.js           | JavaScript         |         50 |          4 |          2 |         56 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\dashboard\index.vue                             | Vue                |        342 |          0 |          1 |        343 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\equipment\factoryList.vue                       | Vue                |        421 |          4 |          1 |        426 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\equipment\faultList.vue                         | Vue                |         99 |          0 |          2 |        101 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\equipment\index.vue                             | Vue                |        264 |          3 |          2 |        269 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\login\index.vue                                 | Vue                |        221 |          4 |         18 |        243 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\newData\equipment.vue                           | Vue                |        490 |         24 |          4 |        518 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\newData\production.vue                          | Vue                |        256 |          1 |          2 |        259 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\productionData\details.vue                      | Vue                |         79 |          0 |          1 |         80 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\productionData\form.vue                         | Vue                |        347 |          2 |          1 |        350 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\productionData\list.vue                         | Vue                |         96 |          2 |          1 |         99 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\statistics\details.vue                          | Vue                |        342 |          4 |          1 |        347 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\statistics\factoryDetails.vue                   | Vue                |        258 |          3 |          1 |        262 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\statistics\factoryList.vue                      | Vue                |         66 |          0 |          1 |         67 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\statistics\list.vue                             | Vue                |         87 |          0 |          1 |         88 |
+| c:\Users\zy\Desktop\pentium_smart_admin\src\views\statistics\unsettledList.vue                    | Vue                |         64 |          0 |          2 |         66 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\.eslintrc.js                                   | JavaScript         |          5 |          0 |          1 |          6 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\components\Breadcrumb.spec.js                  | JavaScript         |         80 |         13 |          5 |         98 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\components\Hamburger.spec.js                   | JavaScript         |         18 |          0 |          1 |         19 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\components\SvgIcon.spec.js                     | JavaScript         |         22 |          0 |          1 |         23 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\utils\formatTime.spec.js                       | JavaScript         |         28 |          0 |          3 |         31 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\utils\param2Obj.spec.js                        | JavaScript         |         12 |          0 |          2 |         14 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\utils\parseTime.spec.js                        | JavaScript         |         33 |          0 |          3 |         36 |
+| c:\Users\zy\Desktop\pentium_smart_admin\tests\unit\utils\validate.spec.js                         | JavaScript         |         16 |          0 |          2 |         18 |
+| c:\Users\zy\Desktop\pentium_smart_admin\vue.config.js                                             | JavaScript         |        100 |         23 |          8 |        131 |
+| Total                                                                                             |                    |     10,516 |        551 |        555 |     11,622 |
++---------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
